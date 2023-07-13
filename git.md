@@ -3,6 +3,8 @@ GIT# UserBook GIT
 #nel terminale git di eclipse inserie : 
 git clone https://github.com/AnitaAgostini/UserBook
 
+in alternativa puoi scaricare il progetto per poi clonare su sourcetree
+
 
 # comandi git utilizzabili
 
